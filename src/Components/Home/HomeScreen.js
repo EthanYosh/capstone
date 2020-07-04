@@ -13,10 +13,10 @@ class HomeScreen extends React.Component {
     `;
 
     const FlexCenterWrap = styled.div`
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    `
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    `;
     const FilterButton = styled.button`
       border: 1px solid black;
       color: black;
